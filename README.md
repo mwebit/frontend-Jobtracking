@@ -1,10 +1,10 @@
 # frontend-Jobtracking
 - after cloning repo switch to main branch.
 - cd into frontend-Jobtracking folder.
-- type code .
+- type `code .`
 - Open a New Terminal in VSCode
-- type npm install
-- type npm start
+- type `npm install`
+- type `npm start`
 - wait for app to appear in browser, if not type localhost:3000 in browser url.
 - Make sure Web API is running in VS2022.
 - Click on button to add a record.
