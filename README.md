@@ -1,2 +1,3 @@
 # frontend-Jobtracking
-react frontend to jobtracking
+- after cloning repo switch to main branch
+
